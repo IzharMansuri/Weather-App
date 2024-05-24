@@ -1,0 +1,26 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #d4d4d4;
+}
+.container{
+    background-color: #49C9AE;
+}
+input{
+    outline: none;
+    padding: 10px 10px;
+}
+.search{
+    width: 80px;
+}
+.displayImage{
+    position: relative;
+}
+.weather{
+    display: none;
+}
+.error{
+    text-align: left;
+    margin-left: 40px;
+    display: none;
+}
